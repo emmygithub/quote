@@ -1,3 +1,3 @@
 # quote
 
-Working on randoming generating quotes
+Making quotes from randome words
